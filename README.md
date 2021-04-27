@@ -1,3 +1,3 @@
 # Not home page
 its 
-[Home Page] (https://windowsntdev.github.io/MainHub/)
+[Home Page](https://windowsntdev.github.io/MainHub/)
