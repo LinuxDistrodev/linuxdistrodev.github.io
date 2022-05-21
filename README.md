@@ -1,3 +1,3 @@
-# Not home page
-its 
-[Home Page](https://linuxdistrodev.github.io/MainHub/)
+# Contents
+- [Home Page](https://multiosdev.github.io/MainHub/)
+- [Software Blogging](https://multiosdev.io/blpgs)
